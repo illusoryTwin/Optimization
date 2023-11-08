@@ -1,0 +1,6 @@
+[submodule "simplex-method"]
+	path = simplex-method
+	url = git@github.com:illusoryTwin/simplex-method.git
+[submodule "interior-point"]
+	path = interior-point
+	url = git@github.com:illusoryTwin/interior-point.git
